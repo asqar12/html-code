@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+< html>
+<head>
+<title>I want to be a smart and strong programer</html>
+</head>
+ <body>
+        <h1>Это "тело" страницы</h1>
+        <p>Содержимое, помещенное в "тело" страницы,
+            будет отображено в основдном окне браузера.
+        </p>
+        <p> Ryan García (born August 8, 1998) is an American professional boxer. He has held the WBC Silver lightweight title since 2019. As of August 2020, he is ranked as the world's fifth best active lightweight by The Ring magazine, seventh by the Transnational Boxing Rankings Board and tenth by BoxRec.                  
+        Райан Гарсия — американский боксёр-профессионал, мексиканского происхождения, выступающий во второй полулёгкой и лёгкой весовых категориях. Среди профессионалов чемпион по версиям WBC Silver, WBO NABO в лёгком весе. Бывший чемпион по версиям NABF, WBO NABO во 2-м полулёгком весе. Википедия
+        </b> </i>Родился: 8 августа 1998 г. (возраст 22 года),</b> </i> Викторвилл, Калифорния, США
+        Первый бой: 9 июня 2016 года
+        Последний бой: 14 февраля 2020 года
+        Вес: Второй полулёгкий вес
+        Количество поражений: 15
+        Весовая категория: Лёгкий вес, Второй полулёгкий вес </p>
+        <p>This is my <i> <b> first html code</b> </i>and I'm <i> Asqar programmer</i></p>
+        <h1>Основной загаловок</h1>
+        <h2>Заголовок 2 -го уровня</h2>
+        <h3>Зоголовок 3 -го уровня</h3>
+        <h4>Заголовок 4 -го уровня</h4>
+        <h5>Заголовок 5 -го уровня</h5>
+        <h6>Заголовок 6 -го уровня</h6>
+
+    </body>
+
+
+</html>
